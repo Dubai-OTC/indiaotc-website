@@ -36,6 +36,7 @@
     "swiper": "^11.1.14"
   },
   "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.13.16",
     "eslint": "^8",
     "eslint-config-next": "14.2.5"
   }

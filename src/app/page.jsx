@@ -1,3 +1,5 @@
+export const runtime = "edge";
+
 import Footer from "@/component/Footer";
 import Header from "@/component/Header";
 import { Heading } from "@/component/Heading";
