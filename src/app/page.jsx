@@ -69,18 +69,18 @@ export default async function Home() {
                   <div>
                     <div className="d-md-inline-block btn-sm fw-medium text-light Primary_500 rounded-3 px-3 py-1">
                       <h5 className="m-0 p-1">
-                        Exchange USDT with AED Cash - Securely
+                        Exchange USDT with INR Cash - Securely
                       </h5>
                     </div>
                   </div>
                   <p className="fw-normal fs-5 d-none d-md-block">
                     Secure, fast, and a Reliable Crypto OTC Exchange platform
-                    for bulk crypto transactions (primarily USDT) with AED,
+                    for bulk crypto transactions (primarily USDT) with INR,
                     ensuring competitive rates and exceptional service.
                   </p>
                   <p className="fw-normal d-md-none fs-3">
                     Secure, fast, and a Reliable Crypto OTC Exchange platform
-                    for bulk crypto transactions (primarily USDT) with AED,
+                    for bulk crypto transactions (primarily USDT) with INR,
                     ensuring competitive rates and exceptional service.
                   </p>
 
@@ -250,7 +250,7 @@ export default async function Home() {
                 <h2 className="pt-3 options-hover-color">Bank Transfer</h2>
                 <div className="options-hover-color">
                   Sell crypto seamlessly via P2P platforms or directly on our
-                  website and receive AED & USD bank transfers in your account.
+                  website and receive INR & USD bank transfers in your account.
                 </div>
               </div>
             </div>

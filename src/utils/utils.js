@@ -7,12 +7,12 @@ export const Nav_Items = [
     content: [
       {
         icon: "/svgs/navbar/buy-crypto.svg",
-        title: "Buy Crypto with AED",
+        title: "Buy Crypto with INR",
         description: "For cash, bank transfer, manager cheque, etc.",
       },
       {
         icon: "/svgs/navbar/sell-crypto.svg",
-        title: "Sell Crypto for AED",
+        title: "Sell Crypto for INR",
         description: "Cash payout, instant settlement",
       },
       {

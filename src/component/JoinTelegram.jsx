@@ -60,7 +60,7 @@ const JoinTelegram = () => {
                 className="img-fluid"
                 style={{ width: "48px" }}
               />
-              <h5 className="fw-semibold text-center">Live AED/USDT Rates</h5>
+              <h5 className="fw-semibold text-center">Live INR/USDT Rates</h5>
             </div>
             <div className="col-6 col-md-3  d-flex flex-column align-items-center gap-4 ">
               <img

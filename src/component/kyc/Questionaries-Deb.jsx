@@ -15,7 +15,7 @@ const Questionaries = ({ data, setStep, verification, getVerification }) => {
       question: "Please select your preferred currency:",
       previous: null,
       options: [
-        { label: "AED", value: "aed", next: "transactionType" },
+        { label: "INR", value: "aed", next: "transactionType" },
         { label: "INR", value: "inr", next: "transactionType" },
         { label: "USD", value: "usd", next: "transactionType" },
       ],

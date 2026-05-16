@@ -40,7 +40,7 @@ export default function Footer() {
                   <div className="fs-6 text-white">
                     <span className="fw-bold">IndiaOTC </span> is a premier
                     crypto OTC platform based in India, enabling individuals and
-                    businesses to buy and sell crypto with AED. We specialize in
+                    businesses to buy and sell crypto with INR. We specialize in
                     bulk trades, fast settlements, and secure service — offering
                     tailored solutions to crypto traders, investors, and NRIs in
                     the UAE.
@@ -160,7 +160,7 @@ export default function Footer() {
                             target="_blank"
                             className="link-opacity-75 link-opacity-100-hover text-decoration-none fs-6 link-light text-capitalize"
                           >
-                            Buy Crypto with AED{" "}
+                            Buy Crypto with INR{" "}
                             <i className="fa-solid fa-arrow-right ms-3 hover-icon"></i>
                           </Link>
                         </li>
@@ -170,7 +170,7 @@ export default function Footer() {
                             target="_blank"
                             className="link-opacity-75 link-opacity-100-hover text-decoration-none fs-6 link-light text-capitalize"
                           >
-                            Sell Crypto for AED
+                            Sell Crypto for INR
                             <i className="fa-solid fa-arrow-right ms-3 hover-icon"></i>
                           </Link>
                         </li>{" "}
